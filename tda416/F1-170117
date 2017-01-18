@@ -1,0 +1,12 @@
+Otroligt mycket enklare med rekursion. Fråga högerbenet invänta svar, fråga vänsterbenet invänta svar, lägg ihop, skicka upp. 
+
+Olika slags listor har olika fördelar och nackdelar. 
+
+Statisk typ, dynamisk.
+
+När användning av interface, kolla igenom api först. (Null ej en klass)
+
+T[] data = T[5] går ej
+= (T[]) Object[5] går
+
+Equals api säger att parametern ska vara Object
