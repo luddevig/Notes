@@ -1,0 +1,7 @@
+Skriv upp alla dependencies, funcctional dependency är kan bero på någon annan. Istället för att skriva a --> b och a-->c och b-->c kan man nöja sig med a-->b och b-->c
+
+Skriv ner allt, och sen ta bort a-->c.
+
+R kan splittas upp i R1 och R2. Välj ut subset som verkar äga stuff, börja med att skriva ut dess attribut, i R2 kan man sedan skriva ut resten, och då ser man att det större, som R1 ingår i, inte behöver massa bös. Subsetet får keyn sig själv. När det är något som inte är direkt, dvs nått som inte är key-->sak utan (key-->)subset-->sak, flyttar man det utanför till en ny relation. Då kan man ta bort 
+
+

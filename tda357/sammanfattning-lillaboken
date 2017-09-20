@@ -1,0 +1,49 @@
+1 Intro
+1.1 Data vs. programs 
+Data behöver lagras och fungera på samma sätt mycket längre än program (och programmeringsspråk)
+
+
+1.2 Databashistoria
+Standard för databaser kom först 1970, och ser ungefär likadan ut idag. Dvs extremt stabilt.
+
+
+1.3 SQL
+Kom början av 1970. 
+
+Har dessa opreationer:
+* svara på frågor 
+* uppdatera info 
+* uppdatera meta-info
+
+SQL är bättre på att genomföra dessa operationer än ett vanligt programmeringsspråk. 
+
+
+1.4 DBMS - database management systems
+= implementeringsprogram av SQL
+kursens program är PostgreSQL
+*Nära SQL-standard
+*open source
+
+1.5 Beskrivning av föreläsningarna
+
+1.6 Bild - beskriver SQL
+
+
+
+2 Datamodeller med relationer 
+Göra saker smart
+
+2.1 Relationer och tabeller
+attributes = labels
+
+
+
+
+
+
+
+
+
+
+
+
